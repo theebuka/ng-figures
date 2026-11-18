@@ -1,0 +1,162 @@
+:root {
+  --green: #0b5d38;
+  --green-deep: #073b24;
+  --white: #ffffff;
+  --paper: #e7ece8;
+  --ink: #0c1d15;
+
+  --skin: #8f5d3f;
+  --skin-shade: #6c422b;
+  --skin-deep: #4a2c1c;
+
+  /* Overridden per figure below. */
+  --accent: #d93a27;
+  --on-accent: #ffffff;
+
+  --font-display: 'Anton', 'Impact', 'Haettenschweiler', sans-serif;
+  --font-body: 'Instrument Sans Variable', system-ui, sans-serif;
+  --font-mono: 'DM Mono', ui-monospace, 'SFMono-Regular', monospace;
+
+  --rail: clamp(30px, 4.2vw, 60px);
+  --gutter: clamp(16px, 3vw, 48px);
+  --line: color-mix(in srgb, currentColor 32%, transparent);
+
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+[data-figure='crowther'] { --accent: #cfae78; --on-accent: #0c1d15; }
+[data-figure='macaulay'] { --accent: #2fb5ad; --on-accent: #0c1d15; }
+[data-figure='ransome-kuti'] { --accent: #d6336f; --on-accent: #ffffff; }
+[data-figure='azikiwe'] { --accent: #d93a27; --on-accent: #ffffff; }
+[data-figure='awolowo'] { --accent: #f4c020; --on-accent: #0c1d15; }
+[data-figure='bello'] { --accent: #7583f5; --on-accent: #0c1d15; }
+[data-figure='balewa'] { --accent: #f08a24; --on-accent: #0c1d15; }
+[data-figure='kwali'] { --accent: #8ed6a8; --on-accent: #0c1d15; }
+[data-figure='achebe'] { --accent: #b5d334; --on-accent: #0c1d15; }
+[data-figure='ojukwu'] { --accent: #f7937f; --on-accent: #0c1d15; }
+[data-figure='gowon'] { --accent: #4fb3f6; --on-accent: #0c1d15; }
+[data-figure='fela'] { --accent: #e25fd3; --on-accent: #0c1d15; }
+[data-figure='murtala'] { --accent: #a97cf0; --on-accent: #0c1d15; }
+[data-figure='akunyili'] { --accent: #2f6fe4; --on-accent: #ffffff; }
+
+/* The accent lightened until it reads as text on green. Declared wherever the accent changes. */
+:root,
+[data-figure] {
+  --accent-text: color-mix(in srgb, var(--accent) 45%, var(--white));
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--green);
+  color: var(--white);
+  font-family: var(--font-body);
+  font-size: clamp(16px, 1.15vw, 19px);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+p,
+figure,
+ul,
+ol,
+dl,
+dd {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+.display {
+  font-family: var(--font-display);
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 0.9;
+  letter-spacing: 0.005em;
+}
+
+.mono {
+  font-family: var(--font-mono);
+  font-size: clamp(10.5px, 0.78vw, 13px);
+  font-weight: 500;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  line-height: 1.3;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* Fills and strokes shared by every piece of SVG artwork. */
+.f-skin { fill: var(--skin); }
+.f-shade { fill: var(--skin-shade); }
+.f-deep { fill: var(--skin-deep); }
+.f-ink { fill: var(--ink); }
+.f-white { fill: var(--white); }
+.f-paper { fill: var(--paper); }
+.f-accent { fill: var(--accent); }
+.f-green { fill: var(--green); }
+.f-greendeep { fill: var(--green-deep); }
+.f-on { fill: var(--on-accent); }
+.f-none { fill: none; }
+.s-ink { stroke: var(--ink); }
+.s-white { stroke: var(--white); }
+.s-accent { stroke: var(--accent); }
+.s-on { stroke: var(--on-accent); }
+.s-shade { stroke: var(--skin-shade); }
+.s-deep { stroke: var(--skin-deep); }
+.s-green { stroke: var(--green); }
+.s-paper { stroke: var(--paper); }

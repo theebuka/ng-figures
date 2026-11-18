@@ -1,0 +1,240 @@
+/* ---------- Lineup ---------- */
+.home {
+  min-height: 100svh;
+  display: flex;
+  flex-direction: column;
+  padding-top: clamp(88px, 12svh, 96px);
+  padding-bottom: 0;
+  border-top: 0;
+  overflow: hidden;
+}
+
+.home__title {
+  font-size: min(var(--fit-size, 11vw), 30svh);
+  line-height: 0.86;
+  text-align: center;
+  overflow: hidden;
+  /* Room for the tops of the capitals inside the mask. */
+  padding-top: 0.04em;
+}
+
+.home__title > span {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.home__intro {
+  max-width: 44ch;
+  margin: clamp(14px, 2svh, 28px) auto 0;
+  text-align: center;
+  text-wrap: balance;
+}
+
+.home__lineup {
+  /* Fourteen in a line would hide each other, so every second bust stands a row back. */
+  /* Sized so the title, both rows and the names fit one screen. */
+  --bust: clamp(120px, calc((100svh - 400px) / 1.66), 19vw);
+  --lift: calc(var(--bust) * 0.46);
+  flex: 1;
+  display: grid;
+  grid-template-columns: repeat(14, minmax(0, 1fr));
+  align-items: end;
+  margin-top: clamp(20px, 4svh, 56px);
+  /* Side room for the end busts, which hang over their columns. */
+  padding: var(--lift) calc(var(--bust) * 0.26) 0;
+}
+
+.home__lineup li {
+  position: relative;
+  z-index: 1;
+}
+
+.home__lineup li:nth-child(odd) {
+  z-index: 0;
+}
+
+/* The back row is lifted, and its square bottom edge rounded off where it shows between shoulders. */
+.home__lineup li:nth-child(odd) .home__bust {
+  translate: 0 calc(var(--lift) * -1);
+  clip-path: inset(0 round 0 0 50% 50% / 0 0 34% 34%);
+}
+
+.home__figure {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  justify-items: center;
+  gap: 2px;
+  padding-bottom: clamp(18px, 2.4vw, 32px);
+  text-align: center;
+  text-decoration: none;
+}
+
+/* The busts are wider than their columns, so neighbours overlap like a group photograph. */
+.home__bust {
+  width: var(--bust);
+  max-width: none;
+  height: auto;
+  margin-bottom: clamp(10px, 1.2vw, 18px);
+  transition: transform 0.5s var(--ease-out);
+}
+
+.home__name {
+  font-size: clamp(12px, 1.05vw, 20px);
+  line-height: 1;
+  white-space: nowrap;
+  transition: color 0.2s;
+}
+
+.home__figure:hover .home__bust,
+.home__figure:focus-visible .home__bust {
+  transform: translateY(-4%) scale(1.04);
+}
+
+.home__figure:hover .home__name,
+.home__figure:focus-visible .home__name {
+  color: var(--accent-text);
+}
+
+.home__lineup li:hover,
+.home__lineup li:focus-within {
+  z-index: 2;
+}
+
+/* ---------- Lifetimes ---------- */
+.lives__chart {
+  position: relative;
+  margin-top: clamp(40px, 5vw, 80px);
+  padding-top: 3.4em;
+}
+
+.lives__marks {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+
+.lives__mark {
+  position: absolute;
+  top: 1.7em;
+  bottom: 0;
+  padding-left: 6px;
+  border-left: 1.5px solid currentColor;
+}
+
+/* 1960 and 1966 sit close together, so the earlier dates are labelled on the left of their line. */
+.lives__mark--before {
+  padding: 0 6px 0 0;
+  border-left: 0;
+  border-right: 1.5px solid currentColor;
+  translate: -100% 0;
+}
+
+.lives__row {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: baseline;
+  gap: 4px 16px;
+  padding: clamp(8px, 0.9vw, 14px) 0;
+  text-decoration: none;
+}
+
+.lives__name {
+  font-size: clamp(22px, 2.6vw, 44px);
+  line-height: 1;
+}
+
+.lives__years {
+  font-variant-numeric: tabular-nums;
+}
+
+.lives__track {
+  grid-column: 1 / -1;
+  display: block;
+}
+
+.lives__bar {
+  display: block;
+  height: clamp(14px, 1.6vw, 26px);
+  background: var(--accent);
+  transition: background 0.2s;
+}
+
+.lives__row:hover .lives__bar,
+.lives__row:focus-visible .lives__bar {
+  background: var(--green);
+}
+
+.lives__key {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px clamp(24px, 4vw, 64px);
+  margin-top: clamp(24px, 3vw, 44px);
+  font-size: 0.9em;
+}
+
+.lives__key div {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.lives__key dd {
+  margin: 0;
+}
+
+/* Two rows of seven once fourteen in a line would be too small to tell apart.
+   Flex rather than grid so a short last row sits in the middle. */
+@media (max-width: 1080px) {
+  .home__lineup {
+    --bust: 20vw;
+    --lift: 0px;
+    --per-row: 7;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-inline: 0;
+    row-gap: clamp(12px, 2vw, 24px);
+  }
+
+  .home__lineup li {
+    width: calc(100% / var(--per-row));
+  }
+
+  .home__lineup li:nth-child(odd) .home__bust {
+    clip-path: none;
+  }
+
+  .home__name {
+    font-size: clamp(14px, 2.1vw, 22px);
+  }
+}
+
+@media (max-width: 720px) {
+  .home__lineup {
+    --bust: 29vw;
+    --per-row: 4;
+  }
+
+  .home__name {
+    font-size: clamp(13px, 3.2vw, 20px);
+  }
+}
+
+@media (max-width: 480px) {
+  .home__lineup {
+    --bust: 35vw;
+    --per-row: 3;
+  }
+
+  .home__name {
+    font-size: clamp(13px, 4vw, 18px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .home__bust,
+  .lives__bar {
+    transition: none;
+  }
+}

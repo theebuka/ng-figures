@@ -1,0 +1,900 @@
+{
+  "azikiwe": {
+    "storer-1926": {
+      "src": "/photos/azikiwe/storer-1926.jpg",
+      "width": 226,
+      "height": 269,
+      "author": "Storer College",
+      "date": "1926-03-17",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Azikiwe_playing_American_Football,_Storer_College,_1926.jpg"
+    },
+    "zungeru": {
+      "src": "/photos/azikiwe/zungeru.jpg",
+      "width": 1280,
+      "height": 853,
+      "author": "Jeremy Weate from Abuja, Nigeria",
+      "date": "2010-08-10 12:09",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nnamdi_Azikiwe%27s_birthplace,_Zungeru.jpg"
+    },
+    "london-1949": {
+      "src": "/photos/azikiwe/london-1949.jpg",
+      "width": 840,
+      "height": 1730,
+      "author": "The West Australian",
+      "date": "October 1949",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Azikiwe_and_Zungur_in_London_1949.png"
+    },
+    "with-bello-1955": {
+      "src": "/photos/azikiwe/with-bello-1955.jpg",
+      "width": 1280,
+      "height": 940,
+      "author": "Unknown photographer",
+      "date": "1955-01-22",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Ahmadu_Bello_with_Nnamdi_Azikiwe.png"
+    },
+    "premiers-1958": {
+      "src": "/photos/azikiwe/premiers-1958.jpg",
+      "width": 1280,
+      "height": 1001,
+      "author": "Drum Magazine photographer",
+      "date": "1958-12-19",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Premiers_of_Nigeria.png"
+    },
+    "nsukka-1960": {
+      "src": "/photos/azikiwe/nsukka-1960.jpg",
+      "width": 1280,
+      "height": 973,
+      "author": "Duckwood, E.H",
+      "date": "1960-01-06",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Dr._John_A._Hannah,_Dr._Nnamdi_Azikiwe_and_Dr._George_Johnson_on_the_campus_of_the_University_of_Nigeria,_Nsukka.jpg"
+    },
+    "nina-simone-1961": {
+      "src": "/photos/azikiwe/nina-simone-1961.jpg",
+      "width": 1280,
+      "height": 1172,
+      "author": "American Society of African Culture (AMSAC)",
+      "date": "1961-07",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Nina_Simone_shake_hands_with_Nnamdi_Azikiwe,_governor-general_of_Nigeria.png"
+    },
+    "pilot-1954": {
+      "src": "/photos/azikiwe/pilot-1954.jpg",
+      "width": 1280,
+      "height": 1686,
+      "author": "West African Pilot",
+      "date": "October 1954",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:2nd_October_1954_West_African_Pilot.pdf"
+    }
+  },
+  "macaulay": {
+    "portrait-1900": {
+      "src": "/photos/macaulay/portrait-1900.jpg",
+      "width": 1280,
+      "height": 1991,
+      "author": "Unknown photographer",
+      "date": "circa 1900",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Herbert_Macaulay_Portrait.jpg"
+    },
+    "crowther-1867": {
+      "src": "/photos/macaulay/crowther-1867.jpg",
+      "width": 999,
+      "height": 1764,
+      "author": "Unknown photographer",
+      "date": "2014-02-21 06:56:11",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Bishop_Samuel_Ajayi_Crowther_1867.png"
+    },
+    "lagos-1929": {
+      "src": "/photos/macaulay/lagos-1929.jpg",
+      "width": 1118,
+      "height": 960,
+      "author": "The National Archives UK - Flickr account",
+      "date": "1929-11-06",
+      "licence": "OGL v1.0",
+      "licenceUrl": "http://NationalArchives.gov.uk/doc/open-government-licence/version/1/",
+      "source": "https://commons.wikimedia.org/wiki/File:The_National_Archives_UK_-_CO_1069-62-6.jpg"
+    },
+    "glover-hall": {
+      "src": "/photos/macaulay/glover-hall.jpg",
+      "width": 1280,
+      "height": 1554,
+      "author": "Unknown photographer",
+      "date": "2024-02-10",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Glover_Memorial_Hall_was_built_in1887.jpg"
+    },
+    "in-1946": {
+      "src": "/photos/macaulay/in-1946.jpg",
+      "width": 655,
+      "height": 832,
+      "author": "Duckworth, E. H.",
+      "date": "1946",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Herbert_Macaulay_in_1946.png"
+    }
+  },
+  "ransome-kuti": {
+    "portrait": {
+      "src": "/photos/ransome-kuti/portrait.jpg",
+      "width": 467,
+      "height": 701,
+      "author": "Sally Dyson and Alhaji L. A. K. Abibi.",
+      "date": "2021-10-06 14:31:46",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Nigerian_Public_Domain_302.jpg"
+    },
+    "family-1940": {
+      "src": "/photos/ransome-kuti/family-1940.jpg",
+      "width": 646,
+      "height": 646,
+      "author": "Unknown photographer",
+      "date": "circa 1940",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Family_Ransome_Kuti_c1940.jpg"
+    },
+    "alake-1923": {
+      "src": "/photos/ransome-kuti/alake-1923.jpg",
+      "width": 1156,
+      "height": 842,
+      "author": "The National Archives UK",
+      "date": "2011-02-07",
+      "licence": "No restrictions",
+      "licenceUrl": "https://www.flickr.com/commons/usage/",
+      "source": "https://commons.wikimedia.org/wiki/File:Alake_of_Abeokuta_in_1923.jpg"
+    },
+    "grammar-school": {
+      "src": "/photos/ransome-kuti/grammar-school.jpg",
+      "width": 1280,
+      "height": 853,
+      "author": "'Yemi King",
+      "date": "2016-06-24 12:44:39",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Abeokuta_Grammar_School_Old_School_Hall.jpg"
+    },
+    "with-balewa": {
+      "src": "/photos/ransome-kuti/with-balewa.jpg",
+      "width": 501,
+      "height": 467,
+      "author": "Unknown photographer",
+      "date": "early 1960s",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Funmilayo_Ransome-Kuti_and_Abubakar_Tafawa_Balewa.gif"
+    },
+    "portrait-nln": {
+      "src": "/photos/ransome-kuti/portrait-nln.jpg",
+      "width": 594,
+      "height": 780,
+      "author": "Unknown photographer",
+      "date": "2024-02-08",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Funmilayo_Ransome-Kuti_(Women_Activist).jpg"
+    }
+  },
+  "awolowo": {
+    "portrait-1959": {
+      "src": "/photos/awolowo/portrait-1959.jpg",
+      "width": 649,
+      "height": 963,
+      "author": "Eliot Elisofon",
+      "date": "1959",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Obafemi_Awolowo.jpg"
+    },
+    "sokoto-1959": {
+      "src": "/photos/awolowo/sokoto-1959.jpg",
+      "width": 1280,
+      "height": 860,
+      "author": "Eliot Elisofon",
+      "date": "1959",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Obafemi_Awolowo_campaigning_at_1959_Action_group_rally_in_Sokoto.png"
+    },
+    "coat-of-arms": {
+      "src": "/photos/awolowo/coat-of-arms.jpg",
+      "width": 1280,
+      "height": 862,
+      "author": "H.F.J.M. Crebolder",
+      "date": "",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_NSAG_-_Crebolder_2_-_37_-_Chief_Obafemi_Awolowo_and_a_Nigerian_coat_of_arms_-_Nigeria_-_1960s.tif"
+    },
+    "cocoa-house": {
+      "src": "/photos/awolowo/cocoa-house.jpg",
+      "width": 1024,
+      "height": 1366,
+      "author": "Ibadan234",
+      "date": "2015-12-24",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cocoa_House,_Ibadan.JPG"
+    },
+    "ikenne-museum": {
+      "src": "/photos/awolowo/ikenne-museum.jpg",
+      "width": 1280,
+      "height": 853,
+      "author": "Kaizen Photography",
+      "date": "2016-04-01 11:06:07",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Obafemi_Awolowo_Museum_1.jpg"
+    },
+    "pilot-1963": {
+      "src": "/photos/awolowo/pilot-1963.jpg",
+      "width": 960,
+      "height": 1358,
+      "author": "West African Pilot Newspaper",
+      "date": "1963",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:12th_September_1963_West_African_Pilot.pdf"
+    },
+    "portrait-nln": {
+      "src": "/photos/awolowo/portrait-nln.jpg",
+      "width": 594,
+      "height": 780,
+      "author": "Unknown photographer",
+      "date": "2024-02-08",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Chief_Obafemi_Awolowo_(First_Premier_of_Western_Region_1954_-_1959).jpg"
+    }
+  },
+  "bello": {
+    "portrait-1961": {
+      "src": "/photos/bello/portrait-1961.jpg",
+      "width": 1092,
+      "height": 1454,
+      "author": "Drum Magazine photographer",
+      "date": "1961-07",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Ahmadu_Bello.png"
+    },
+    "elisofon-1959": {
+      "src": "/photos/bello/elisofon-1959.jpg",
+      "width": 684,
+      "height": 1000,
+      "author": "Eliot Elisofon",
+      "date": "1959",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Sir_Ahmadu_Bello_(1959).jpg"
+    },
+    "queen-kaduna-1956": {
+      "src": "/photos/bello/queen-kaduna-1956.jpg",
+      "width": 1280,
+      "height": 954,
+      "author": "Unknown photographer",
+      "date": "1956",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Photo_English_Queen_Elizabeth_II_visiting_Kaduna_1956_-_Touring_Club_Italiano_BBH_147.jpg"
+    },
+    "independence-1960": {
+      "src": "/photos/bello/independence-1960.jpg",
+      "width": 1220,
+      "height": 1638,
+      "author": "Moneta Sleet Jr.",
+      "date": "1960-10-01",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Ahmadu_Bello_at_Nigerian_Independence_Celebration_in_Lagos.png"
+    },
+    "ibadan-1962": {
+      "src": "/photos/bello/ibadan-1962.jpg",
+      "width": 1280,
+      "height": 820,
+      "author": "Maarten van Dis",
+      "date": "1-13 February 1962",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_NSAG_-_van_Dis_4_-_202_-_Prime_minister_of_Northern_Nigeria_Ahmadu_Bello_opens_Sultan_Bello_Hall_-_Ibadan,_Oyo_State,_South_West_Nigeria_-_1-13_February_1962.tif"
+    },
+    "home-1965": {
+      "src": "/photos/bello/home-1965.jpg",
+      "width": 1092,
+      "height": 1454,
+      "author": "Drum Magazine photographer",
+      "date": "1965-07",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Ahmadu_Bello_at_his_home.png"
+    }
+  },
+  "balewa": {
+    "office-1959": {
+      "src": "/photos/balewa/office-1959.jpg",
+      "width": 633,
+      "height": 947,
+      "author": "Eliot Elisofon",
+      "date": "1959",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Tafawa_Balewa_in_office_02.jpg"
+    },
+    "independence-1960": {
+      "src": "/photos/balewa/independence-1960.jpg",
+      "width": 1280,
+      "height": 914,
+      "author": "H.F.J.M. Crebolder",
+      "date": "",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_NSAG_-_Crebolder_2_-_40_-_Independence_ceremony._Robertson_GG,_Princess_Alexandra,_Abubakar_Tafawa_Balewa,_President_-_Lagos,_Nigeria_-_October_1,_1960.tif"
+    },
+    "northwestern-1960": {
+      "src": "/photos/balewa/northwestern-1960.jpg",
+      "width": 1280,
+      "height": 860,
+      "author": "Unknown photographer",
+      "date": "1960",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Melville_J._Herskovits_and_Nigerian_Prime_Minister_Abubakar_Tafawa_Balewa_posed_holding_a_stack_of_books_at_Northwestern_University.png"
+    },
+    "kennedy-1961": {
+      "src": "/photos/balewa/kennedy-1961.jpg",
+      "width": 791,
+      "height": 1000,
+      "author": "Abbie Rowe. White House Photographs. John F. Kennedy Presidential Library and Museum, Bostone",
+      "date": "1961-07-25",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:President_John_F._Kennedy_with_Abubakar_Tafawa_Balewa,_Prime_Minister_of_Nigeria_(01).jpg"
+    },
+    "nehru-1962": {
+      "src": "/photos/balewa/nehru-1962.jpg",
+      "width": 754,
+      "height": 1156,
+      "author": "Unknown photographer",
+      "date": "1962-10",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Abubakar_Tafawa_Balewa_with_Pandit_Jawaharlal_Nehru.png"
+    },
+    "tomb": {
+      "src": "/photos/balewa/tomb.jpg",
+      "width": 1280,
+      "height": 721,
+      "author": "Teemages",
+      "date": "2017-07-02",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tafawa_balewas_tomb_2.jpg"
+    },
+    "morning-post-1964": {
+      "src": "/photos/balewa/morning-post-1964.jpg",
+      "width": 1640,
+      "height": 1280,
+      "author": "Nigerian Morning Post Newspaper",
+      "date": "1964",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:29th_December_1964_Nigerian_Morning_Post.pdf"
+    }
+  },
+  "crowther": {
+    "seated": {
+      "src": "/photos/crowther/seated.jpg",
+      "width": 838,
+      "height": 1146,
+      "author": "Ernest Edwards",
+      "date": "2014-02-24 06:40:39",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Bishop_Samuel_Ajayi_Crowther_A.png"
+    },
+    "namesake-1828": {
+      "src": "/photos/crowther/namesake-1828.jpg",
+      "width": 1250,
+      "height": 1401,
+      "author": "James Thomson",
+      "date": "2014-02-22 23:28:39",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Rev_Samuel_Crowther_by_Thomson_1828.png"
+    },
+    "fourah-bay": {
+      "src": "/photos/crowther/fourah-bay.jpg",
+      "width": 1280,
+      "height": 818,
+      "author": "Jared & Melanie & Huxley Ponchot",
+      "date": "2007-09-23 14:09:47",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Old_building_of_Fourah_Bay_College._Cline_Town,_Freetown,_Sierra_Leone.jpg"
+    },
+    "niger-1841": {
+      "src": "/photos/crowther/niger-1841.jpg",
+      "width": 1280,
+      "height": 961,
+      "author": "Ackermann; Edward Duncan; Samuel Walters",
+      "date": "12 May 1841",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Niger_Expedition_-_off_Holyhead_-_Aug-Oct_1841._HMS_Albert_also_shows_Sudan_and_Wiberforce_RMG_PY0907.jpg"
+    },
+    "missionaries": {
+      "src": "/photos/crowther/missionaries.jpg",
+      "width": 1280,
+      "height": 776,
+      "author": "Unknown photographer",
+      "date": "2014-02-24 05:48:43",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Bishop_Samuel_Ajayi_Crowther_and_missionaries.png"
+    },
+    "with-dandeson-1870": {
+      "src": "/photos/crowther/with-dandeson-1870.jpg",
+      "width": 650,
+      "height": 868,
+      "author": "Sydney Victor White",
+      "date": "2014-02-23 07:31:05",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Bishop_Samuel_Ajayi_Crowther_and_son_Dandeson_1870.png"
+    },
+    "yoruba-bible": {
+      "src": "/photos/crowther/yoruba-bible.jpg",
+      "width": 1280,
+      "height": 1247,
+      "author": "Ridzaina",
+      "date": "2023-06-14 11:58:26",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:First_Yoruba_Bible.jpg"
+    }
+  },
+  "achebe": {
+    "portrait-1966": {
+      "src": "/photos/achebe/portrait-1966.jpg",
+      "width": 1280,
+      "height": 1917,
+      "author": "Carlo Bavagnoli",
+      "date": "1966",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinua_Achebe,_1966.jpg"
+    },
+    "ibadan-1962": {
+      "src": "/photos/achebe/ibadan-1962.jpg",
+      "width": 1280,
+      "height": 848,
+      "author": "Maarten van Dis",
+      "date": "1-13 February 1962",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_NSAG_-_van_Dis_4_-_203_-_University_College_Ibadan._An_octogonal_new_modern_building_on_campus._Palm_trees_-_Ibadan,_Oyo_State,_South_West_Nigeria_-_1-13_February_1962.tif"
+    },
+    "students-1962": {
+      "src": "/photos/achebe/students-1962.jpg",
+      "width": 1280,
+      "height": 848,
+      "author": "Maarten van Dis",
+      "date": "1-13 February 1962",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_NSAG_-_van_Dis_4_-_197_-_University_College_Ibadan._Two_Nigerian_students_in_white_dress_-_Ibadan,_Oyo_State,_South_West_Nigeria_-_1-13_February_1962.tif"
+    },
+    "title-page-1959": {
+      "src": "/photos/achebe/title-page-1959.jpg",
+      "width": 759,
+      "height": 1133,
+      "author": "McDowell, Obolensky",
+      "date": "1959",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Things_Fall_Apart_signed.jpg"
+    },
+    "buffalo-2008": {
+      "src": "/photos/achebe/buffalo-2008.jpg",
+      "width": 1280,
+      "height": 960,
+      "author": "Stuart C. Shapiro",
+      "date": "2008-09-25",
+      "licence": "CC BY 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinua_Achebe_-_Buffalo_25Sep2008.jpg"
+    },
+    "iowa-1968": {
+      "src": "/photos/achebe/iowa-1968.jpg",
+      "width": 640,
+      "height": 480,
+      "author": "WOI-TV",
+      "date": "1968",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinua_Achebe_interview_WOI-TV_1968.webm"
+    }
+  },
+  "ojukwu": {
+    "portrait-1971": {
+      "src": "/photos/ojukwu/portrait-1971.jpg",
+      "width": 865,
+      "height": 638,
+      "author": "Satilijay",
+      "date": "1971-02-02",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Emeka_Ojukwu.jpg"
+    },
+    "father": {
+      "src": "/photos/ojukwu/father.jpg",
+      "width": 337,
+      "height": 414,
+      "author": "uchezik@yahoo.com",
+      "date": "1954-01-01",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Louis_Ojukwu_(cropped).jpg"
+    },
+    "ahiara-1969": {
+      "src": "/photos/ojukwu/ahiara-1969.jpg",
+      "width": 328,
+      "height": 480,
+      "author": "Satilijay",
+      "date": "1969-11-04",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Ojukwu_in_Ahiara.jpg"
+    },
+    "biafra-pound": {
+      "src": "/photos/ojukwu/biafra-pound.jpg",
+      "width": 1280,
+      "height": 960,
+      "author": "Utibe Noah Silas",
+      "date": "2018-06-07 14:34:14",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:One_Pound_used_in_Biafra_Republic.jpg"
+    },
+    "relief-1968": {
+      "src": "/photos/ojukwu/relief-1968.jpg",
+      "width": 1280,
+      "height": 990,
+      "author": "Anefo",
+      "date": "1968-08-07",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Hulpverlener_bij_een_groep_inwoners,_Bestanddeelnr_921-5789.jpg"
+    },
+    "bunker": {
+      "src": "/photos/ojukwu/bunker.jpg",
+      "width": 768,
+      "height": 493,
+      "author": "Ebubechukwu1",
+      "date": "2022-05-07",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ojukwu%27s_Bunker.jpg"
+    },
+    "pilot-1966": {
+      "src": "/photos/ojukwu/pilot-1966.jpg",
+      "width": 738,
+      "height": 1292,
+      "author": "West African Pilot",
+      "date": "May 1966",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:25th_May_1966_West_African_Pilot.pdf"
+    }
+  },
+  "gowon": {
+    "portrait-1970": {
+      "src": "/photos/gowon/portrait-1970.jpg",
+      "width": 1280,
+      "height": 1535,
+      "author": "Unknown photographer",
+      "date": "2024-02-10",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Gen._Yakubu_Gowon_GCFR.jpg"
+    },
+    "in-1966": {
+      "src": "/photos/gowon/in-1966.jpg",
+      "width": 587,
+      "height": 596,
+      "author": "Unknown photographer",
+      "date": "1966-11",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:General_Yakubu_Gowon.png"
+    },
+    "newspaper-1970": {
+      "src": "/photos/gowon/newspaper-1970.jpg",
+      "width": 1280,
+      "height": 1978,
+      "author": "Aart Rietveld",
+      "date": "between 1970 and 1973",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_Rietveld_Collection_-_Nigeria_1970_-_1973_-_01_-_093_New_Nigerian_newspaper_page_7_January_1970._End_of_the_Nigerian_civil_war_with_Biafra.jpg"
+    },
+    "israel-1971": {
+      "src": "/photos/gowon/israel-1971.jpg",
+      "width": 1280,
+      "height": 775,
+      "author": "IPPA Staff",
+      "date": "1971-11-02",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:L%C3%A9opold_S%C3%A9dar_Senghor_and_Yakubu_Gowon_received_by_Zalman_Shazar_in_Israel_(1971)_01.png"
+    },
+    "nysc": {
+      "src": "/photos/gowon/nysc.jpg",
+      "width": 1280,
+      "height": 853,
+      "author": "Afolabi Olanrewaju Taiwo",
+      "date": "2017-11-09 10:15:07",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:NIGERIAN_YOUTH_SERVICE_CORPS_(NYSC).jpg"
+    },
+    "national-theatre": {
+      "src": "/photos/gowon/national-theatre.jpg",
+      "width": 1280,
+      "height": 959,
+      "author": "Juganutt",
+      "date": "2023-06-10 10:24:39",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:National_Arts_Theatre,_Lagos.jpg"
+    },
+    "in-2007": {
+      "src": "/photos/gowon/in-2007.jpg",
+      "width": 807,
+      "height": 1076,
+      "author": "User:Rkasesela per [1]",
+      "date": "31 May 2007 (upload date)",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Yakubu_Gowon_(cropped).jpg"
+    }
+  },
+  "murtala": {
+    "portrait-1975": {
+      "src": "/photos/murtala/portrait-1975.jpg",
+      "width": 1280,
+      "height": 1535,
+      "author": "Unknown photographer",
+      "date": "circa 1975",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Gen._Murtalar_Muhammed.jpg"
+    },
+    "civilian-1975": {
+      "src": "/photos/murtala/civilian-1975.jpg",
+      "width": 1192,
+      "height": 1690,
+      "author": "Unknown photographer",
+      "date": "1975",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Brigadier_General_Murtala_Muhammed.png"
+    },
+    "with-ajoke": {
+      "src": "/photos/murtala/with-ajoke.jpg",
+      "width": 1184,
+      "height": 1642,
+      "author": "Unknown photographer",
+      "date": "1975",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Nigerian_Military_Head_of_State_Murtala_Muhammed_with_his_wife_Ajoke.png"
+    },
+    "with-obasanjo": {
+      "src": "/photos/murtala/with-obasanjo.jpg",
+      "width": 968,
+      "height": 1592,
+      "author": "Unknown photographer",
+      "date": "1975",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Murtala_Muhammed_with_his_Chief_of_Staff_Olusegun_Obasanjo.png"
+    },
+    "state-car": {
+      "src": "/photos/murtala/state-car.jpg",
+      "width": 1280,
+      "height": 960,
+      "author": "Olusola David, Ayibiowu",
+      "date": "2022-09-09 13:31:35",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:State_car_in_which_General_Murtala_Ramat_Mohammed_was_assassinated.jpg"
+    },
+    "aso-rock": {
+      "src": "/photos/murtala/aso-rock.jpg",
+      "width": 1280,
+      "height": 853,
+      "author": "Mark Fischer",
+      "date": "2015-02-15",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aso_Rock_as_seen_from_the_IBB_golf_course_in_Abuja,_Nigeria.jpg"
+    },
+    "airport": {
+      "src": "/photos/murtala/airport.jpg",
+      "width": 1280,
+      "height": 960,
+      "author": "PESP/ Wikimedia",
+      "date": "2019-11-07 08:01:47",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Murtala_Muhammed_International_Airport,_Lagos,_Nigeria_-_2019-11-07_-_IMG_9489.jpg"
+    }
+  },
+  "fela": {
+    "portrait-1986": {
+      "src": "/photos/fela/portrait-1986.jpg",
+      "width": 836,
+      "height": 1218,
+      "author": "Distributed by Celluloid Records",
+      "date": "1986-07-19",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:Fela_Kuti_circa_1986.jpg"
+    },
+    "in-1970": {
+      "src": "/photos/fela/in-1970.jpg",
+      "width": 435,
+      "height": 435,
+      "author": "MOI MEME",
+      "date": "1970",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:WA%C3%8FPA_FELA_KUTI.JPG"
+    },
+    "shrine": {
+      "src": "/photos/fela/shrine.jpg",
+      "width": 1280,
+      "height": 651,
+      "author": "Comradeayobami",
+      "date": "2019-09-20",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_New_Afrika_Shrine.jpg"
+    },
+    "posters": {
+      "src": "/photos/fela/posters.jpg",
+      "width": 1280,
+      "height": 1707,
+      "author": "Nominaetch",
+      "date": "2024-06-02",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:New_Afrika_Shrine_Afrika_70s%E2%80%99_Posters.jpg"
+    },
+    "statue": {
+      "src": "/photos/fela/statue.jpg",
+      "width": 1280,
+      "height": 1550,
+      "author": "Omoeko Media",
+      "date": "2018-04-03 17:22:22",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Fela_Kuti,_Allen_Avenue,_Lagos.jpg"
+    },
+    "observer-1975": {
+      "src": "/photos/fela/observer-1975.jpg",
+      "width": 1280,
+      "height": 1875,
+      "author": "Sunday Observer Newspaper",
+      "date": "1975",
+      "licence": "Public domain",
+      "licenceUrl": "",
+      "source": "https://commons.wikimedia.org/wiki/File:3rd_August_1975_Sunday_Observer.pdf"
+    }
+  },
+  "kwali": {
+    "chicago-1972": {
+      "src": "/photos/kwali/chicago-1972.jpg",
+      "width": 388,
+      "height": 647,
+      "author": "Internet Archive Book Images",
+      "date": "14 de setembro de 1972",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Image_from_page_179_of_Bulletin_(1966-1972)_b2.jpg"
+    },
+    "pot-york": {
+      "src": "/photos/kwali/pot-york.jpg",
+      "width": 1280,
+      "height": 853,
+      "author": "Creator:Ladi Kwali",
+      "date": "",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hand-Built_pot_by_Ladi_Kwali_(YORYM-2004.1.919).JPG"
+    },
+    "gwari-jar": {
+      "src": "/photos/kwali/gwari-jar.jpg",
+      "width": 1280,
+      "height": 1588,
+      "author": "Ji-Elle",
+      "date": "2016-02-24 13:10:04",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Jarre-Gwari-Mus%C3%A9e_des_Confluences.jpg"
+    },
+    "tate-2025": {
+      "src": "/photos/kwali/tate-2025.jpg",
+      "width": 1280,
+      "height": 766,
+      "author": "GualdimG",
+      "date": "2025-12-21",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Room_3,_Ladi_Kwali_-_Of_Soil_and_Stone,_Nigerian_Modernism,_Tate_Modern,_London_19.jpg"
+    },
+    "portrait": {
+      "src": "/photos/kwali/portrait.jpg",
+      "width": 1280,
+      "height": 1280,
+      "author": "Photographer not known",
+      "date": "after 1963",
+      "licence": "Copyright status not known",
+      "licenceUrl": "",
+      "source": "https://www.instagram.com/p/CphmeeMoGQ7/"
+    }
+  },
+  "akunyili": {
+    "monument": {
+      "src": "/photos/akunyili/monument.jpg",
+      "width": 792,
+      "height": 1280,
+      "author": "Chiinobis",
+      "date": "2021-04-19 13:04:50",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:DoraAkunyili_Monument_at_Ezinano_Agulu.jpg"
+    },
+    "portrait-nln": {
+      "src": "/photos/akunyili/portrait-nln.jpg",
+      "width": 590,
+      "height": 776,
+      "author": "Unknown photographer",
+      "date": "2008-2010",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source": "https://commons.wikimedia.org/wiki/File:Prof._Dora_Akunyili_(Hon._Minister_of_Information_Communication_2008_-_2010).jpg"
+    },
+    "csis-2013": {
+      "src": "/photos/akunyili/csis-2013.jpg",
+      "width": 1024,
+      "height": 683,
+      "author": "CSIS: Center for Strategic & International Studies",
+      "date": "29 April 2013",
+      "licence": "CC BY-NC-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/",
+      "source": "https://www.flickr.com/photos/31447736@N06/8723114817"
+    }
+  }
+}
