@@ -1,6 +1,7 @@
 import { Suspense, lazy, useLayoutEffect } from 'react'
 import { Navigate, Route, Routes, useLocation } from 'react-router-dom'
 import { Menu } from './components/Menu'
+import { SiteFooter } from './components/SiteFooter'
 import { scrollToTop, useSmoothScroll } from './motion/motion'
 import { Home } from './pages/Home'
 
@@ -25,6 +26,7 @@ function App() {
           <Route path="/credits" element={<Credits />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
+        <SiteFooter />
       </Suspense>
     </>
   )

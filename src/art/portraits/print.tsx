@@ -38,7 +38,22 @@ export function printPortrait(id: string, plates: Plates): PortraitArt {
     height: 720,
     layers: [
       { id: 'disc', z: -70, node: <circle className="f-greendeep" cx={DISC.cx} cy={DISC.cy} r={DISC.r} /> },
-      { id: 'paper', z: 0, node: trimmed('paper', <path className="f-white" d={plates.silhouette} />) },
+      {
+        id: 'paper',
+        z: 0,
+        // The shadow is drawn inside the SVG so it follows the cut edge. As a CSS
+        // filter on the 3D layer some renderers shade the whole square instead.
+        node: (
+          <>
+            <defs>
+              <filter id={`lift-${id}`} x="-20%" y="-20%" width="140%" height="140%">
+                <feDropShadow dx="0" dy="10" stdDeviation="9" floodColor="#073b24" floodOpacity="0.6" />
+              </filter>
+            </defs>
+            <g filter={`url(#lift-${id})`}>{trimmed('paper', <path className="f-white" d={plates.silhouette} />)}</g>
+          </>
+        ),
+      },
       {
         id: 'tone',
         z: 8,

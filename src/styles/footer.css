@@ -1,0 +1,107 @@
+/* ---------- Site footer ---------- */
+.foot {
+  padding: clamp(56px, 7vw, 112px) calc(var(--rail) + var(--gutter)) clamp(20px, 2.4vw, 36px);
+  background: var(--green-deep);
+  color: var(--white);
+}
+
+.foot__mark {
+  font-size: var(--fit-size, 11vw);
+  line-height: 0.84;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.foot__body {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: start;
+  gap: clamp(24px, 4vw, 72px);
+  margin-top: clamp(32px, 4vw, 64px);
+  padding-top: clamp(20px, 2vw, 32px);
+  border-top: 1px solid color-mix(in srgb, var(--white) 22%, transparent);
+}
+
+.foot__about {
+  max-width: 52ch;
+  margin: 0;
+  color: color-mix(in srgb, var(--white) 78%, transparent);
+  font-size: clamp(16px, 1.25vw, 19px);
+  line-height: 1.55;
+}
+
+.foot__links {
+  display: grid;
+  grid-auto-flow: column;
+  grid-template-rows: repeat(2, auto);
+  gap: 12px clamp(28px, 3vw, 48px);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.foot__base {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  margin-top: clamp(40px, 5vw, 88px);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  color: color-mix(in srgb, var(--white) 72%, transparent);
+}
+
+.foot__base p {
+  margin: 0;
+}
+
+.foot a,
+.foot__top {
+  color: var(--white);
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  transition: background-size 0.4s var(--ease-out);
+}
+
+.foot a:hover,
+.foot a:focus-visible,
+.foot__top:hover,
+.foot__top:focus-visible {
+  background-size: 100% 1px;
+}
+
+.foot__top {
+  padding: 0;
+  border: 0;
+  font: inherit;
+  letter-spacing: inherit;
+  text-transform: uppercase;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+@media (max-width: 720px) {
+  .foot__body {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .foot {
+    padding-left: var(--gutter);
+    padding-right: var(--gutter);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .foot a,
+  .foot__top {
+    transition: none;
+  }
+}

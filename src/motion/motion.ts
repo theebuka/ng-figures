@@ -15,6 +15,12 @@ export function scrollToTop() {
   else window.scrollTo(0, 0)
 }
 
+/** Glides back to the top, or jumps there when motion is reduced. */
+export function glideToTop() {
+  if (lenis) lenis.scrollTo(0, { duration: 1.4 })
+  else window.scrollTo({ top: 0, behavior: prefersReducedMotion() ? 'auto' : 'smooth' })
+}
+
 /** Smooth wheel scrolling, kept in step with ScrollTrigger. Mount once. */
 export function useSmoothScroll() {
   useEffect(() => {
